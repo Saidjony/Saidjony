@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saidjony
+- 👋 Hi, I’m Saidjon
 - 👀 I’m interested in programming on C#
 - 🌱 I’m currently learning to programming
 - 💞️ I’m looking to collaborate on electronics
